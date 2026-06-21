@@ -1,4 +1,5 @@
-<img width="480" height="266" alt="goku" src="https://github.com/user-attachments/assets/ed3c9f39-6e85-48a7-8287-616d6db5703b" />
+<img width="1500" height="500" alt="Wiki_Loves_Women_twitter_banner_celebrating_20_years_of_Wikipedia" src="https://github.com/user-attachments/assets/a995bdca-7ce1-447a-a869-c4d8aa1814cf" />
+
 
 # 💫 About Me:
 Programmer and gamer with a passion for technology, AI, and software development. Always exploring new ideas and turning creativity into code.
