@@ -1,3 +1,5 @@
+<!-- Uploading "ezgif-385f5e0262c35775.gif"... -->
+
 # 💫 About Me:
 Programmer and gamer with a passion for technology, AI, and software development. Always exploring new ideas and turning creativity into code.
 
