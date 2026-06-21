@@ -1,4 +1,4 @@
-<!-- Uploading "ezgif-385f5e0262c35775.gif"... -->
+<img width="480" height="266" alt="goku" src="https://github.com/user-attachments/assets/ed3c9f39-6e85-48a7-8287-616d6db5703b" />
 
 # 💫 About Me:
 Programmer and gamer with a passion for technology, AI, and software development. Always exploring new ideas and turning creativity into code.
