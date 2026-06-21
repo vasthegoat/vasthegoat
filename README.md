@@ -1,4 +1,4 @@
-<img width="1280" height="350" alt="e74df65657264815ea3989c3e1109ea3" src="https://github.com/user-attachments/assets/2686f4a4-054b-4dde-b5eb-c174e7d96eca" />
+<img width="1280" height="450" alt="e74df65657264815ea3989c3e1109ea3" src="https://github.com/user-attachments/assets/2686f4a4-054b-4dde-b5eb-c174e7d96eca" />
 
 # 💫 About Me:
 Programmer and gamer with a passion for technology, AI, and software development. Always exploring new ideas and turning creativity into code.
